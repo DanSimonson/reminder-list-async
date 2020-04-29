@@ -6,7 +6,7 @@ import {
 } from "./ReminderTypes";
 
 const initialState = {
-  loading: false,
+  loading: true,
   reminders: [],
   error: "",
 };
