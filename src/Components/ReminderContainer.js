@@ -24,7 +24,6 @@ function ReminderContainer({ getReminders, data }) {
 
 const mapStateToProps = (state) => {
   return {
-    //data: state.reminders,
     data: state,
   };
 };
